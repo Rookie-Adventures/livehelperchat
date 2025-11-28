@@ -803,15 +803,15 @@
     </message>
     <message>
       <source>If you enter alias make sure you pass this string as argument for a theme. Otherwise argument will be ignored.</source>
-      <translation>如果输入别名，请确保将此字符串作为主题的参数传递。否则参数将被忽略。</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Online status options</source>
-      <translation>在线状态选项</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Offline status options</source>
-      <translation>离线状态选项</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Images</source>
@@ -831,19 +831,19 @@
     </message>
     <message>
       <source>New message separator style</source>
-      <translation>新消息分隔符样式</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Scroll to the bottom style</source>
-      <translation>滚动到底部样式</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Other</source>
-      <translation>其他</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Override embed code settings</source>
-      <translation>覆盖嵌入代码设置</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Build your own need help widget layout</source>
@@ -871,11 +871,11 @@
     </message>
     <message>
       <source>Choose manually bot ant trigger</source>
-      <translation>手动选择机器人和触发器</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>For it to work, trigger has to have checked</source>
-      <translation>要使其工作，触发器必须被选中</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Can be passed as argument</source>
@@ -2801,7 +2801,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -2912,7 +2912,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Put a custom value here</source>
@@ -3076,7 +3076,7 @@
     </message>
     <message>
       <source>Disabled</source>
-      <translation>已禁用</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Explain</source>
@@ -3367,7 +3367,7 @@
     </message>
     <message>
       <source>We will process priority rules for department changes. This introduces performance penalty.</source>
-      <translation>我们将处理部门变更的优先级规则。这会带来性能损失。</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visible only if online</source>
@@ -4481,7 +4481,7 @@
     </message>
     <message>
       <source>Success</source>
-      <translation>成功</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Make widget offline if widget is not in oline mode</source>
@@ -4585,7 +4585,7 @@
     </message>
     <message>
       <source>Default settings</source>
-      <translation>默认设置</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -4692,7 +4692,7 @@
     </message>
     <message>
       <source>Enabled</source>
-      <translation>已启用</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Assign selected department to canned messages</source>
@@ -4756,7 +4756,7 @@
     </message>
     <message>
       <source>Sort by</source>
-      <translation>排序方式</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>CSV</source>
@@ -5012,11 +5012,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Theme</source>
@@ -5156,7 +5156,7 @@
     </message>
     <message>
       <source>Bot chats</source>
-      <translation>机器人聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Closed chats</source>
@@ -5272,7 +5272,7 @@
     </message>
     <message>
       <source>Empty</source>
-      <translation>空</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Identifier</source>
@@ -5404,7 +5404,7 @@
     </message>
     <message>
       <source>Language</source>
-      <translation>语言</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Undelivered</source>
@@ -5440,11 +5440,11 @@
     </message>
     <message>
       <source>New mails</source>
-      <translation>新邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Active mails</source>
-      <translation>活跃邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Closed mails</source>
@@ -5704,7 +5704,7 @@
     </message>
     <message>
       <source>Select country</source>
-      <translation>选择国家</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Only operators who were online during selected period</source>
@@ -5972,11 +5972,11 @@
     </message>
     <message>
       <source>Today</source>
-      <translation>今天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Yesterday</source>
-      <translation>昨天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Last 2 days</source>
@@ -5984,7 +5984,7 @@
     </message>
     <message>
       <source>Last 7 days</source>
-      <translation>过去7天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Last 15 days</source>
@@ -5992,15 +5992,15 @@
     </message>
     <message>
       <source>Last 30 days</source>
-      <translation>过去30天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>This week</source>
-      <translation>本周</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>This month</source>
-      <translation>本月</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Previous week</source>
@@ -6059,7 +6059,7 @@
     </message>
     <message>
       <source>Login settings</source>
-      <translation>登录设置</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Options</source>
@@ -6279,7 +6279,7 @@
     </message>
     <message>
       <source>Default department</source>
-      <translation>默认部门</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Select</source>
@@ -6475,7 +6475,7 @@
     </message>
     <message>
       <source>Failed</source>
-      <translation>失败</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Send</source>
@@ -6483,7 +6483,7 @@
     </message>
     <message>
       <source>Manual</source>
-      <translation>手动</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Based on recipient list</source>
@@ -6511,7 +6511,7 @@
     </message>
     <message>
       <source>Owner</source>
-      <translation>所有者</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Total recipients</source>
@@ -6715,15 +6715,15 @@
     </message>
     <message>
       <source>Disabled</source>
-      <translation>已禁用</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>This list was updated. Please</source>
@@ -8590,7 +8590,7 @@
     </message>
     <message>
       <source>Select country</source>
-      <translation>选择国家</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visited in the past</source>
@@ -8855,7 +8855,7 @@
     <name>genericbot/list</name>
     <message>
       <source>Login history</source>
-      <translation>登录历史</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Download</source>
@@ -8970,11 +8970,11 @@
     </message>
     <message>
       <source>Trigger</source>
-      <translation>触发器</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Shortcut</source>
-      <translation>快捷方式</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Position</source>
@@ -10710,7 +10710,7 @@
     </message>
     <message>
       <source>Time filter</source>
-      <translation>时间筛选</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Explorer</source>
@@ -11157,7 +11157,7 @@
     </message>
     <message>
       <source>Widgets</source>
-      <translation>小部件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Alert icons</source>
@@ -11269,15 +11269,15 @@
     </message>
     <message>
       <source>My active and new mails</source>
-      <translation>我的活跃和新邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Active mails</source>
-      <translation>活跃邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>New mails</source>
-      <translation>新邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Mail queue alarm</source>
@@ -11348,7 +11348,7 @@
     </message>
     <message>
       <source>Active mails</source>
-      <translation>活跃邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Download XLS</source>
@@ -11392,7 +11392,7 @@
     </message>
     <message>
       <source>Alarm mails</source>
-      <translation>警报邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>All departments</source>
@@ -11460,7 +11460,7 @@
     </message>
     <message>
       <source>New mails</source>
-      <translation>新邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Bot chats</source>
@@ -11472,7 +11472,7 @@
     </message>
     <message>
       <source>My active and new mails</source>
-      <translation>我的活跃和新邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Online operators</source>
@@ -11484,7 +11484,7 @@
     </message>
     <message>
       <source>Ongoing trigger alerts!</source>
-      <translation>进行中的触发器警报！</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Transferred chats</source>
@@ -11903,7 +11903,7 @@
     </message>
     <message>
       <source>Member</source>
-      <translation>成员</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Your new group name</source>
@@ -11959,7 +11959,7 @@
     </message>
     <message>
       <source>Max</source>
-      <translation>最大</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>chats</source>
@@ -12011,7 +12011,7 @@
     </message>
     <message>
       <source>Bot chats</source>
-      <translation>机器人聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Load statistic</source>
@@ -12174,7 +12174,7 @@
     </message>
     <message>
       <source>Save settings</source>
-      <translation>保存设置</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Translation settings</source>
@@ -12401,7 +12401,7 @@
     </message>
     <message>
       <source>Join call</source>
-      <translation>加入通话</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Cancel</source>
@@ -12607,11 +12607,11 @@
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>待处理聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>活跃聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Inactive chats</source>
@@ -12694,7 +12694,7 @@
     </message>
     <message>
       <source>Active chats</source>
-      <translation>活跃聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Inactive chats</source>
@@ -12706,11 +12706,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Department</source>
@@ -12862,7 +12862,7 @@
     </message>
     <message>
       <source>Login history</source>
-      <translation>登录历史</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>User stats</source>
@@ -12882,7 +12882,7 @@
     </message>
     <message>
       <source>Active mails</source>
-      <translation>活跃邮件</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Pending mails</source>
@@ -12890,7 +12890,7 @@
     </message>
     <message>
       <source>All</source>
-      <translation>全部</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Search</source>
@@ -12909,7 +12909,7 @@
     </message>
     <message>
       <source>My active and pending chats</source>
-      <translation>我的活跃和待处理聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Unread messages</source>
@@ -13543,7 +13543,7 @@
     <name>chat/modifychat</name>
     <message>
       <source>Debug</source>
-      <translation>调试</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>User attribute</source>
@@ -13599,11 +13599,11 @@
     </message>
     <message>
       <source>First response time</source>
-      <translation>首次响应时间</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Average response time</source>
-      <translation>平均响应时间</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Max response time</source>
@@ -13718,11 +13718,11 @@
     </message>
     <message>
       <source>Login history</source>
-      <translation>登录历史</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Automation</source>
-      <translation>自动化</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Auto responder</source>
@@ -13854,7 +13854,7 @@
     </message>
     <message>
       <source>Integration</source>
-      <translation>集成</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Languages configuration</source>
@@ -14376,7 +14376,7 @@
     </message>
     <message>
       <source>Login history</source>
-      <translation>登录历史</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Commands</source>
@@ -14659,11 +14659,11 @@
     </message>
     <message>
       <source>Tablet</source>
-      <translation>平板</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Desktop</source>
-      <translation>桌面</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visitors</source>
@@ -14927,7 +14927,7 @@
     </message>
     <message>
       <source>Average response time</source>
-      <translation>平均响应时间</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Average duration of interactions by department. Max 10 minutes.</source>
@@ -14987,7 +14987,7 @@
     </message>
     <message>
       <source>Total visitors</source>
-      <translation>总访客数</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visitors City</source>
@@ -15784,7 +15784,7 @@
     </message>
     <message>
       <source>Backup</source>
-      <translation>备份</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Archive</source>
@@ -16288,7 +16288,7 @@
     </message>
     <message>
       <source>Default settings</source>
-      <translation>默认设置</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -16387,11 +16387,11 @@
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>待处理聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>活跃聊天</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Inactive chats</source>
@@ -16415,7 +16415,7 @@
     </message>
     <message>
       <source>Online operators</source>
-      <translation>在线客服</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Offline operators</source>
@@ -18224,7 +18224,7 @@
     </message>
     <message>
       <source>Other</source>
-      <translation>其他</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Subject to add if mail ticket is closed from chat. Enter a subject ID</source>
@@ -18299,7 +18299,7 @@
     </message>
     <message>
       <source>Minutes</source>
-      <translation>分钟</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Department</source>
@@ -18367,7 +18367,7 @@
     </message>
     <message>
       <source>Total messages</source>
-      <translation>总消息数</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visitor messages number</source>
@@ -18567,7 +18567,7 @@
     </message>
     <message>
       <source>On</source>
-      <translation>开启</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>wrote</source>
@@ -18575,7 +18575,7 @@
     </message>
     <message>
       <source>From</source>
-      <translation>从</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>at</source>
@@ -18587,7 +18587,7 @@
     </message>
     <message>
       <source>To</source>
-      <translation>到</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Forwarded message</source>
@@ -18751,11 +18751,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Are you sure?</source>
@@ -19203,7 +19203,7 @@
     <name>module/mailconvprint</name>
     <message>
       <source>From</source>
-      <translation>从</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>at</source>
@@ -19211,7 +19211,7 @@
     </message>
     <message>
       <source>To</source>
-      <translation>到</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -19274,7 +19274,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -19325,7 +19325,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>OR</source>
@@ -19337,7 +19337,7 @@
     </message>
     <message>
       <source>Success</source>
-      <translation>成功</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Name</source>
@@ -19417,7 +19417,7 @@
     </message>
     <message>
       <source>Empty</source>
-      <translation>空</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Not empty</source>
@@ -19465,7 +19465,7 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No, uploaded files types might not be detected correctly!</source>
@@ -19537,7 +19537,7 @@
     </message>
     <message>
       <source>Chat options</source>
-      <translation>聊天选项</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Attributes</source>
@@ -19859,7 +19859,7 @@
     </message>
     <message>
       <source>All departments</source>
-      <translation>所有部门</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>HTML Template</source>
@@ -19906,7 +19906,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -22646,7 +22646,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -22669,11 +22669,11 @@
     </message>
     <message>
       <source>Trigger</source>
-      <translation>触发器</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Enabled</source>
-      <translation>已启用</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Continuous chat event</source>
@@ -22697,7 +22697,7 @@
     </message>
     <message>
       <source>Disabled</source>
-      <translation>已禁用</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Please choose a bot</source>
@@ -22759,7 +22759,7 @@
     </message>
     <message>
       <source>Webhook</source>
-      <translation>Webhook</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Recipient. (chatId). In most cases it is just a phone number</source>
@@ -23434,7 +23434,7 @@
     </message>
     <message>
       <source>Average response time</source>
-      <translation>平均响应时间</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Average response time (participation)</source>

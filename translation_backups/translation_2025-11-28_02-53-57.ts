@@ -2801,7 +2801,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -2912,7 +2912,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Put a custom value here</source>
@@ -4585,7 +4585,7 @@
     </message>
     <message>
       <source>Default settings</source>
-      <translation>默认设置</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -4756,7 +4756,7 @@
     </message>
     <message>
       <source>Sort by</source>
-      <translation>排序方式</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>CSV</source>
@@ -5012,11 +5012,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Theme</source>
@@ -5272,7 +5272,7 @@
     </message>
     <message>
       <source>Empty</source>
-      <translation>空</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Identifier</source>
@@ -5404,7 +5404,7 @@
     </message>
     <message>
       <source>Language</source>
-      <translation>语言</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Undelivered</source>
@@ -5704,7 +5704,7 @@
     </message>
     <message>
       <source>Select country</source>
-      <translation>选择国家</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Only operators who were online during selected period</source>
@@ -6059,7 +6059,7 @@
     </message>
     <message>
       <source>Login settings</source>
-      <translation>登录设置</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Options</source>
@@ -6279,7 +6279,7 @@
     </message>
     <message>
       <source>Default department</source>
-      <translation>默认部门</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Select</source>
@@ -6483,7 +6483,7 @@
     </message>
     <message>
       <source>Manual</source>
-      <translation>手动</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Based on recipient list</source>
@@ -6719,11 +6719,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>This list was updated. Please</source>
@@ -8590,7 +8590,7 @@
     </message>
     <message>
       <source>Select country</source>
-      <translation>选择国家</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Visited in the past</source>
@@ -8970,7 +8970,7 @@
     </message>
     <message>
       <source>Trigger</source>
-      <translation>触发器</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Shortcut</source>
@@ -12174,7 +12174,7 @@
     </message>
     <message>
       <source>Save settings</source>
-      <translation>保存设置</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Translation settings</source>
@@ -12706,11 +12706,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Department</source>
@@ -12890,7 +12890,7 @@
     </message>
     <message>
       <source>All</source>
-      <translation>全部</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Search</source>
@@ -13543,7 +13543,7 @@
     <name>chat/modifychat</name>
     <message>
       <source>Debug</source>
-      <translation>调试</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>User attribute</source>
@@ -13722,7 +13722,7 @@
     </message>
     <message>
       <source>Automation</source>
-      <translation>自动化</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Auto responder</source>
@@ -13854,7 +13854,7 @@
     </message>
     <message>
       <source>Integration</source>
-      <translation>集成</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Languages configuration</source>
@@ -15784,7 +15784,7 @@
     </message>
     <message>
       <source>Backup</source>
-      <translation>备份</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Archive</source>
@@ -16288,7 +16288,7 @@
     </message>
     <message>
       <source>Default settings</source>
-      <translation>默认设置</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -18299,7 +18299,7 @@
     </message>
     <message>
       <source>Minutes</source>
-      <translation>分钟</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Department</source>
@@ -18567,7 +18567,7 @@
     </message>
     <message>
       <source>On</source>
-      <translation>开启</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>wrote</source>
@@ -18751,11 +18751,11 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No</source>
-      <translation>否</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Are you sure?</source>
@@ -19274,7 +19274,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -19325,7 +19325,7 @@
     </message>
     <message>
       <source>Value</source>
-      <translation>值</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>OR</source>
@@ -19417,7 +19417,7 @@
     </message>
     <message>
       <source>Empty</source>
-      <translation>空</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Not empty</source>
@@ -19465,7 +19465,7 @@
     </message>
     <message>
       <source>Yes</source>
-      <translation>是</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>No, uploaded files types might not be detected correctly!</source>
@@ -19537,7 +19537,7 @@
     </message>
     <message>
       <source>Chat options</source>
-      <translation>聊天选项</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Attributes</source>
@@ -19859,7 +19859,7 @@
     </message>
     <message>
       <source>All departments</source>
-      <translation>所有部门</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>HTML Template</source>
@@ -19906,7 +19906,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -22646,7 +22646,7 @@
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>设置已更新</translation>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -22669,7 +22669,7 @@
     </message>
     <message>
       <source>Trigger</source>
-      <translation>触发器</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Enabled</source>
@@ -22759,7 +22759,7 @@
     </message>
     <message>
       <source>Webhook</source>
-      <translation>Webhook</translation>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Recipient. (chatId). In most cases it is just a phone number</source>

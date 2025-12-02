@@ -1,0 +1,21 @@
+=== 第11批翻译条目 - 小部件配置和HTML设置 ===
+
+已修复的字符编码问题：
+1. Online status text [old widget] -> 在线状态文字[旧小部件]
+2. Offline status text [old widget] -> 离线状态文字[旧小部件]  
+3. Operator intro text -> 客服人员简介文字
+4. Have a question? Ask us! -> 有任何问题吗？请询问我们！
+5. Status widget border color -> 状态小部件边框颜色
+6. Custom html before start chat form fields, popup -> 开始聊天表单字段前的自定义HTML，弹窗模式
+7. Custom html before start chat form fields, popup (bot mode) -> 开始聊天表单字段前的自定义HTML，弹窗模式（机器人模式）
+8. Disable sound for the visitor by default -> 默认为访客禁用声音
+9. Terminate script if parent window already has live help script -> 如果父窗口已有在线帮助脚本，则终止脚本
+
+主要翻译内容类别：
+- 小部件外观配置（颜色、边框、尺寸）
+- HTML自定义设置
+- 弹窗和小部件模式配置
+- 声音和脚本控制选项
+- 客服人员介绍和状态显示
+
+翻译进度：58.47% -> 继续提升中

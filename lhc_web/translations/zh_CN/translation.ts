@@ -11720,7 +11720,7 @@
     </message>
     <message>
       <source>All items will appear here</source>
-      <translation type="unfinished"/>
+      <translation>所有项目将显示在这里</translation>
     </message>
     <message>
       <source>Search for department</source>
@@ -24102,7 +24102,7 @@
     </message>
     <message>
       <source>You are a chat owner</source>
-      <translation type="unfinished"/>
+      <translation>您是聊天所有者</translation>
     </message>
   </context>
   <context>

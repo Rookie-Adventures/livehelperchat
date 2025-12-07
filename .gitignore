@@ -8,3 +8,18 @@
 
 # Firebase
 /.idx/
+
+# Cache and compiled files (不提交缓存和编译后的文件)
+/lhc_web/cache/*
+!/lhc_web/cache/.gitkeep
+/lhc_web/design/defaulttheme/css/css_static/
+/lhc_web/design/defaulttheme/js/js_static/
+
+# Settings (不提交配置文件，包含敏感信息)
+/lhc_web/settings/settings.ini.php
+
+# Var directory (运行时生成的文件)
+/lhc_web/var/tmpfiles/
+/lhc_web/var/storage/
+/lhc_web/var/userphoto/
+/lhc_web/var/botphoto/
